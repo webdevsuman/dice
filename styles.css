@@ -1,3 +1,15 @@
+.navbar{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.dropdown-item{
+  font-family: 'Ubuntu', sans-serif;
+}
+.top{
+  text-align: center;
+  background-color: /*#f78259;*/   /*#eb4559;*/  #084177;
+  color: white;
+}
 .container {
   width: 70%;
   margin: auto;
